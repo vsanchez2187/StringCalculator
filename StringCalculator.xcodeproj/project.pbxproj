@@ -13,6 +13,7 @@
 		366FCA0123CF1FE800E7F259 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 366FCA0023CF1FE800E7F259 /* Assets.xcassets */; };
 		366FCA0423CF1FE800E7F259 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 366FCA0223CF1FE800E7F259 /* LaunchScreen.storyboard */; };
 		366FCA0F23CF1FE800E7F259 /* StringCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 366FCA0E23CF1FE800E7F259 /* StringCalculatorTests.swift */; };
+		368E2D1923CF28E30035F84E /* StringCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 368E2D1823CF28E30035F84E /* StringCalculator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		366FCA0A23CF1FE800E7F259 /* StringCalculatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StringCalculatorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		366FCA0E23CF1FE800E7F259 /* StringCalculatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringCalculatorTests.swift; sourceTree = "<group>"; };
 		366FCA1023CF1FE800E7F259 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		368E2D1823CF28E30035F84E /* StringCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringCalculator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				366FCA0023CF1FE800E7F259 /* Assets.xcassets */,
 				366FCA0223CF1FE800E7F259 /* LaunchScreen.storyboard */,
 				366FCA0523CF1FE800E7F259 /* Info.plist */,
+				368E2D1823CF28E30035F84E /* StringCalculator.swift */,
 			);
 			path = StringCalculator;
 			sourceTree = "<group>";
@@ -199,6 +202,7 @@
 			files = (
 				366FC9FC23CF1FE800E7F259 /* ViewController.swift in Sources */,
 				366FC9FA23CF1FE800E7F259 /* AppDelegate.swift in Sources */,
+				368E2D1923CF28E30035F84E /* StringCalculator.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
